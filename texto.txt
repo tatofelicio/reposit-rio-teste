@@ -1,9 +1,6 @@
-##Arquivo de texto teste
+lista de compras:
 
-//alteração para commit 2
-arquivo de commit
-
-alteração local
-
-alteração remota
+sabolete
+pao
+leite
 
