@@ -1,1 +1,4 @@
 ##Arquivo de texto teste
+
+//alteração para commit 2
+arquivo de commit
